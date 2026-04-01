@@ -1,6 +1,6 @@
 # LLM Watermark Stealing — JSV & DeMark Baselines
 
-This repository reproduces representative watermark-stealing methodologies—[**JSV**](https://github.com/eth-sri/watermark-stealing) and [**DeMark**](https://arxiv.org/pdf/2410.13808)—and contains the code and scripts used to run scrubbing (removal) and spoofing (exploitation) experiments. The results of these baseline experiments were included in the **EACL 2026 (Main)** accepted paper [**DITTO**: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](https://arxiv.org/pdf/2510.10987).
+This repository reproduces representative watermark-stealing methodologies—[**JSV**](https://github.com/eth-sri/watermark-stealing) and [**DeMark**](https://arxiv.org/pdf/2410.13808)—and contains the code and scripts used to run scrubbing (removal) and spoofing (exploitation) experiments. The results of these baseline experiments were included in the **EACL 2026 (Main)** accepted paper [**DITTO**: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](https://aclanthology.org/2026.eacl-long.229/).
 
 ---
 
